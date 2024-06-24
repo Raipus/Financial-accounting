@@ -1,0 +1,46 @@
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\x86\sqlite3.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\x64\sqlite3.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Financial accounting.exe.config
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Financial accounting.exe
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Financial accounting.pdb
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Memory.Data.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Text.Json.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Memory.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Buffers.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Data.SQLite.xml
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Memory.Data.xml
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Text.Json.xml
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nikita\Desktop\projectMoney\bin\Debug\System.ValueTuple.xml
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectMoney.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectMoney.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\Financial accounting.exe.config
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectMoney.MainForm.resources
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectMoney.StatForm.resources
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectMoney.Properties.Resources.resources
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectMoney.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectMoney.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\projectM.AE807B57.Up2Date
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\Financial accounting.exe
+C:\Users\Nikita\Desktop\projectMoney\obj\Debug\Financial accounting.pdb

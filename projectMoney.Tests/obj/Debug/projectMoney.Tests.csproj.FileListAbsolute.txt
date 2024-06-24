@@ -1,0 +1,58 @@
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\x86\sqlite3.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\x64\sqlite3.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.Tests.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.Tests.pdb
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.exe
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.pdb
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.exe.config
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\bin\Debug\System.Data.SQLite.xml
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.csproj.AssemblyReference.cache
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.csproj.CoreCompileInputs.cache
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.csproj.CopyComplete
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.dll
+C:\Users\SlAVA\source\repos\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.pdb
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\x86\sqlite3.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\x64\sqlite3.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.Tests.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.Tests.pdb
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.exe
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\System.Data.SQLite.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.pdb
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\projectMoney.exe.config
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\System.Data.SQLite.xml
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.csproj.AssemblyReference.cache
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.csproj.CoreCompileInputs.cache
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.csproj.CopyComplete
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\obj\Debug\projectMoney.Tests.pdb
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\x86\e_sqlite3.dll
+C:\Users\saddl\OneDrive\Рабочий стол\projectMoney\projectMoney.Tests\bin\Debug\x64\e_sqlite3.dll
